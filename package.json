@@ -1,0 +1,17 @@
+{
+  "name": "pdf-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "mkdirp": "^0.5.1",
+    "pdf2json": "^1.1.8",
+    "request": "^2.88.0"
+  }
+}
