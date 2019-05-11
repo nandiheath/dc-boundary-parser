@@ -247,7 +247,3 @@ function parseRow(row) {
     boundaries, mainArea
   };
 }
-
-function makeMainArea(row) {
-
-}
